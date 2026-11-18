@@ -1,4 +1,4 @@
-# 美股跌幅排行 · US Stock Decliners
+# 美股跌幅排行 · US Stock Market Top Losers
 
 Password-protected weekly page (StaticCrypt). Only the encrypted `index.html` is stored here.
 
